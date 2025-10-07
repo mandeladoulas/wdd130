@@ -7,15 +7,15 @@ body{
     font-family: Arial, sans-serif;
     Margin: 0;
     padding:0;
-    border: 1px solid rgb(rgb(216, 153, 153), rgb(0, 128, 17), rgb(13, 13, 14));
+    border: 1px solid rgb(rgb(230, 220, 220), rgb(3, 7, 4), rgb(13, 13, 14));
     text-align: center;
-    background-color: rgb(213, 230, 230);
+    background-color: rgb(203, 216, 216);
     color: rgb(228, 218, 207);
 
 }
 header{
     background-color: rgb(0, 0, 0);
-    color: bisque;
+    color: rgb(250, 248, 245);
     padding: 10px 20px;
 
 }
