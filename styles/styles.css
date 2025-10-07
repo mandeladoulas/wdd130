@@ -1,0 +1,43 @@
+main{
+    max-width: 840px;
+    padding: 0;
+
+}
+body{
+    font-family: Arial, sans-serif;
+    Margin: 0;
+    padding:0;
+    border: 1px solid rgb(rgb(216, 153, 153), rgb(0, 128, 17), rgb(107, 107, 211));
+    text-align: center;
+    background-color: rgb(213, 230, 230);
+    color: rgb(228, 218, 207);
+
+}
+header{
+    background-color: aqua;
+    color: bisque;
+    padding: 10px 20px;
+
+}
+
+.container{
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 0 20px;
+}
+main img{
+    width: 150px;
+    height: auto;
+}
+
+aside img{
+    width: 200px;
+    height: auto;
+}
+
+footer{
+    margin-top: 15px;
+    border: 1px solid #0000;
+    text-align: center;
+}
+ 
