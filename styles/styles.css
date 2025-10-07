@@ -7,14 +7,14 @@ body{
     font-family: Arial, sans-serif;
     Margin: 0;
     padding:0;
-    border: 1px solid rgb(rgb(216, 153, 153), rgb(0, 128, 17), rgb(107, 107, 211));
+    border: 1px solid rgb(rgb(216, 153, 153), rgb(0, 128, 17), rgb(13, 13, 14));
     text-align: center;
     background-color: rgb(213, 230, 230);
     color: rgb(228, 218, 207);
 
 }
 header{
-    background-color: aqua;
+    background-color: rgb(3, 22, 22);
     color: bisque;
     padding: 10px 20px;
 
