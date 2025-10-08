@@ -1,3 +1,7 @@
+p{
+    color:rgb(11, 12, 12);
+}
+
 main{
     max-width: 840px;
     padding: 0;
@@ -7,7 +11,7 @@ body{
     font-family: Arial, sans-serif;
     Margin: 0;
     padding:0;
-    border: 1px solid rgb(rgb(10, 10, 10), rgb(3, 7, 4), rgb(13, 13, 14));
+    border: 1px solid rgb(rgb(49, 46, 46), rgb(3, 7, 4), rgb(13, 13, 14));
     text-align: center;
     background-color: rgb(11, 12, 12);
     color: rgba(17, 15, 13, 0.788);
